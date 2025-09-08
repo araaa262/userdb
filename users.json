@@ -8,5 +8,10 @@
     "username": "ara2",
     "password": "1",
     "role": "user"
+  },
+  {
+    "username": "arfa",
+    "password": "1",
+    "role": "admin"
   }
 ]
